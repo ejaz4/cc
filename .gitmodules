@@ -1,0 +1,9 @@
+[submodule "cc-frontend"]
+	path = cc-frontend
+	url = https://github.com/ejaz4/cc-frontend
+[submodule "cc-ui"]
+	path = cc-ui
+	url = https://github.com/ejaz4/cc-ui
+[submodule "cc-backend"]
+	path = cc-backend
+	url = https://github.com/ejaz4/cc-backend
